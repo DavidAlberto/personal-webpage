@@ -2,19 +2,27 @@
 action_label: Read More &rarr;
 action_link: /about
 action_type: text
-description: Sit down, relax, and get to know Hugo Apéro. Built on top of Blogophonic,
-  we wanted to create a polished Hugo theme with the right features for a true personal
-  website. We set out to create a theme that is a pleasure to learn, and one that
-  helps others get to know you better. It is more than a blog, with flexible custom
-  layouts that help you introduce yourself online.
+description: Hola a todos!!
+  Soy David, candidato a Doctor en Biología 
+  Integrativa en la Unidad de Genómica Avanzada del Cinvestav. Tengo 
+  experiencia en biología celular y molecular de hongos con especialización
+  en bioinformática para el análisis de datos ómicos. 
+  Mi formación y espertis es en ciencias químico-biológicas y análisis 
+  transcriptómico y metagenómico que me ha permitido desarrollar investigación
+  en el análisis de datos masivos.
+  Tengo el compromiso constante con mi desarrollo profesional a través la
+  participación activa en workshops, hackathones y proyectos colaborativos.
+  Cuento con habilidades técnicas y analíticas con una profunda comprensión
+  de problemas biológicos complejos, respaldado por mi formación y colaboración
+  con instituciones como la UNAM y la Universidad de Guanajuato.
 image_left: true
 images:
-- img/revoir.jpg
+- img/David.png
 show_action_link: true
 show_social_links: true
 subtitle: A Hugo theme you'll want to hang out with
 text_align_left: false
-title: Hugo Apéro
+title: David Alberto García Estrada
 type: home
 ---
 
